@@ -1,0 +1,4 @@
+Tutorial:gf:1
+Dibughcreat:miguel:1
+Fuerzas:miguelserio:1
+Gran Poder:miguelsuper:1
